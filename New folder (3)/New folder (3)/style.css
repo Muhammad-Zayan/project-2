@@ -1,0 +1,537 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    /* background-color: rgb(182, 178, 178); */
+    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#main{
+    display: flex;
+    
+}
+#main1{
+    
+    margin: 5px 0px 5px 10px;
+}
+.nav{
+    display: flex !important;
+    align-items: center;
+    margin: 10px 0px 0px 10px; 
+    
+}
+.span{
+    font-size: 19px;
+    font-weight: bolder;
+    padding: 2px;
+}
+.Image{
+height: 6px;
+/* padding-top: 3px; */
+padding: 3px 0px 0px 3px;
+}
+.IMAGE{
+    padding: 4px 0px 5px 20px;
+    height: 22px;
+
+}
+.child{
+    margin: 5px;
+    padding: 10px 0px 0px 5px;
+}
+.child1,li{
+   list-style: none;
+   padding: 5px 0px 10px 0px;
+}
+.child1,span{
+    padding: 0px 5px 0px 8px;
+}
+.IMG{
+    padding: 3px;
+    border: 1px solid #808080;
+}
+
+.ellips{
+    display: flex;
+    margin-top: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.main{
+    background-color: #fff;
+    border: 1px solid #eeee;
+    padding: 10px ;
+    margin: 10px ;
+display: flex;
+cursor: pointer;
+}
+.img{
+    padding: 5px;
+}
+.img:hover{
+    border-radius: 50%;
+    background-color: rgb(112, 112, 248);
+    color: #fff;
+    transition: .4s;
+}
+.main,h3{
+    padding-right: 20px;
+}
+.group{
+    border-left: 1px solid #808080;
+}
+.group2{
+    padding-left: 0px;
+}
+
+.main_2{
+    background-color:#e2e1e1;
+    height: 290px;
+    margin: 10px;
+    padding: 8px;
+    border-radius: 15px;
+    padding-left: 10px;
+    width: 170px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* padding-left: 20px; */
+}
+.main2{
+    display: flex;
+    margin: 2px;
+    padding-left: 5px;
+    height: 22px;
+    width: 20px;
+}
+
+/*  */
+
+.back{
+    /* margin-top: 21px; */
+  padding: 6px 6px 0px 6px;
+   color: #808080;
+   font-size: 10px;
+}
+.back2{
+    /* margin-top: 23px; */
+   padding-left: 20px;
+   color: #808080;
+}
+.back-4{
+    /* margin-top: 23px; */
+   padding-left: 13px;
+   color: #808080;
+}
+.main_3{
+    background-color: #fff;
+    height: 115px;
+    width: 170px;
+    /* padding: 10px; */
+    border-radius: 5px;
+}
+
+
+.main3{
+    color: #808080;
+}
+.main3,h4{
+    font-size: 11px;
+    padding-left: 5px;
+    padding-top: 3px;
+}
+.design,h2{
+    font-size: 13px;
+    padding-left: 10px;
+    padding-top: 6px;
+}
+.rm{
+    display: flex;
+    padding-left: 10px;
+    /* padding: 5px; */
+    padding-top: 5px;
+    font-size: 8px;
+}
+.api{
+    background-color: #FFEEDE;
+    border-radius: 10px;
+    padding: 3px;
+  
+}
+.api_2{
+    background-color: #FFDEFC;
+    border-radius: 10px;
+    padding: 3px;
+    margin-left: 7px;
+}
+.img{
+    /* padding-left: 20px; */
+    padding: 3px;
+}
+.created{
+    font-size: 11px;
+    color: #808080;
+    background-color: #e2e1e1;
+    width: 100px;
+    margin-left: 13px;
+    padding-left: 10px;
+    border-radius: 15px;
+    /* padding: 3px; */
+}
+
+
+
+.created1{
+    font-size: 11px;
+    color: #808080;
+    background-color: #e2e1e1;
+    width: 100px;
+    margin-left: 13px;
+    padding-left: 10px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-between;
+    padding: 3px;
+}
+.img-1{
+    padding-left: 10px;
+}
+
+#main_2{
+    display: flex;
+}
+
+
+/*  */
+/*  */
+/*  */
+
+/* card 2 */
+
+.main-card-2{
+    background-color:#e2e1e1;
+    height: 610px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 15px;
+    padding-left: 10px;
+    width: 170px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* padding-left: 20px; */
+}
+.main_card2{
+    display: flex;
+    margin: 2px;
+    padding-left: 5px;
+    height: 22px;
+    width: 20px;
+}
+
+
+.rm1{
+    display: flex;
+    padding-left: 10px;
+    /* padding: 5px; */
+    padding-top: 5px;
+    font-size: 5px;
+}
+.api-1{
+    background-color: #DEEFFF;
+    color: #DEEFFF;
+    border-radius: 10px;
+    
+  
+}
+.api-2{
+    background-color: #FFA5F7;
+    color: #FFA5F7;
+    border-radius: 10px;
+    /* padding: 3px; */
+    margin-left: 7px;
+}
+
+
+.back-2{
+    /* margin-top: 23px; */
+   padding-left: 65px;
+   color: #808080;
+}
+
+.rm-1{
+    display: flex;
+    padding-left: 10px;
+    /* padding: 5px; */
+    padding-top: 5px;
+    font-size: 5px;
+}
+.api1{
+    background-color: #FFC690;
+    color: #FFC690;
+    border-radius: 10px;
+    
+  
+}
+.api2{
+    background-color: #FFA5F7;
+    color: #FFA5F7;
+    border-radius: 10px;
+    /* padding: 3px; */
+    margin-left: 7px;
+}
+.Back{
+    /* margin-top: 21px; */
+  padding: 6px 6px 0px 6px;
+   color: #808080;
+   font-size: 11px;
+}
+.Back-2{
+    /* margin-top: 23px; */
+   padding-left: 45px;
+   color: #808080;
+}
+.back-4{
+    /* margin-top: 23px; */
+   padding-left: 23px;
+   color: #808080;
+}
+
+
+.Main_3{
+    background-color: #fff;
+    height: 100px;
+    width: 170px;
+    /* padding: 10px; */
+    border-radius: 5px;
+}
+
+
+.Main3{
+    color: #808080;
+}
+.Main3,h4{
+    font-size: 11px;
+    padding-left: 5px;
+    padding-top: 3px;
+}
+.Design,h2{
+    font-size: 13px;
+    padding-left: 10px;
+    padding-top: 6px;
+}
+
+.img{
+    /* padding-left: 20px; */
+    padding: 3px;
+}
+.Created{
+    font-size: 11px;
+    color: #808080;
+    background-color: #e2e1e1;
+    width: 100px;
+    margin-left: 13px;
+    padding-left: 10px;
+    border-radius: 15px;
+    /* padding: 3px; */
+}
+
+
+/*  */
+/*  */
+/*  */
+/*  */
+/* card 3 */
+
+
+.MAIN_2{
+    background-color:#e2e1e1;
+    height: 780PX;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 15px;
+    padding-left: 10px;
+    width: 170px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* padding-left: 20px; */
+}
+.MAIN2{
+    display: flex;
+    margin: 2px;
+    /* padding-left: 5px; */
+    height: 22px;
+    width: 20px;
+}
+
+
+
+.MAIN_3{
+    background-color: #fff;
+    height: 90px;
+    width: 170px;
+    /* padding: 10px; */
+    border-radius: 5px;
+}
+
+
+.MAIN3{
+    color: #808080;
+}
+.MAIN3,h4{
+    font-size: 9px;
+    /* padding-left: 5px; */
+    padding-top: 3px;
+}
+.BACK_1{
+    /* margin-top: 21px; */
+  padding: 6px 6px 0px 6px;
+   color: #808080;
+   font-size: 9px;
+}
+.BACK_2{
+    /* margin-top: 23px; */
+   padding-left: 15px;
+   color: #808080;
+}
+
+
+
+/*  */
+/*  */
+/*  */
+/* 4th card/ */
+
+
+.MAIN-card-2{
+    background-color:#e2e1e1;
+    height: 680PX;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 15px;
+    padding-left: 10px;
+    width: 170px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* padding-left: 20px; */
+}
+.MAIN-card2{
+    display: flex;
+    margin: 2px;
+    padding-left: 5px;
+    height: 22px;
+    width: 22px;
+}
+
+
+
+.main-card_3{
+    background-color: #fff;
+    height: 115px;
+    width: 170px;
+    /* padding: 10px; */
+    border-radius: 5px;
+}
+
+
+.maincard3{
+    color: #808080;
+}
+.maincard3,h4{
+    font-size: 11px;
+    padding-left: 5px;
+    padding-top: 2px;
+}
+.BACK{
+    /* margin-top: 21px; */
+  padding: 6px 6px 0px 6px;
+   color: #808080;
+   font-size: 11px;
+}
+.BACK2{
+    /* margin-top: 23px; */
+   padding-left: 16px;
+   color: #808080;
+}
+.BACK-4{
+    /* margin-top: 23px; */
+   /* padding-left: 23px; */
+   color: #808080;
+}
+
+
+
+/*  */
+/*  */
+/*  */
+/* 5th card/ */
+
+
+.MAIN-CARD_2{
+    background-color:#e2e1e1;
+    height: 150PX;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 15px;
+    padding-left: 10px;
+    width: 170px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* padding-left: 20px; */
+}
+.MAINCARD2{
+    display: flex;
+    margin: 2px;
+    padding-left: 5px;
+    height: 22px;
+    width: 20px;
+}
+
+
+
+.MAIN-CARD_3{
+    background-color: #fff;
+    height: 110px;
+    width: 170px;
+    /* padding: 10px; */
+    border-radius: 5px;
+}
+
+
+.MAINCARD3{
+    color: #808080;
+}
+.MAINCARD3,h4{
+    font-size: 11px;
+    padding-left: 5px;
+    padding-top: 2px;
+}
+.BACK-1{
+    /* margin-top: 21px; */
+  padding: 6px 6px 0px 6px;
+   color: #808080;
+   font-size: 11px;
+}
+.BACK-2{
+    /* margin-top: 23px; */
+   padding-left: 20px;
+   color: #808080;
+}
+
+
+
